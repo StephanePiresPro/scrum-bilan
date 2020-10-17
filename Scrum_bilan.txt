@@ -1,0 +1,65 @@
+Scrum : Bilan
+
+## Introduction 
+
+L'implémentation de Scrum va bientôt fêter son premier anniversaire ( Sep 19 - Sep 20 ).
+Il est donc venu l'heure de faire le bilan des apports positif mais aussi négatif du processus. 
+
+## Problématique 
+
+Faut-il continuer à utiliser Scrum ? 
+
+## Diagnostique : 
+
+Liste de processus/méthodes ajouté durant l'année : 
+
+### Réunion 
+
+* Réunion Affinage
+* Réunion Planning
+* Réunion Review
+* Réunion Rétro 
+* Temps des daily diminué ( < 20m en moyenne)
+
+### Sprint 
+
+* Mise en place de sprint
+* 2 semaines => 3 semaines
+
+### Review 
+
+* Les DEV peuvent Review 
+* 3 ème merger (SJA) 
+
+### Estimation/projection 
+
+* Echelle Scrum 
+* Estimation des stories 
+
+### Communication
+
+* Les stakeholders se sentent-ils plus écouté ? 
+* Les stakeholders ont-ils une meilleure vision du travail de l'équipe ? 
+
+## Points positif
+
+* 
+* 
+*
+*
+ 
+## Points négatif 
+
+*
+*
+*
+*
+
+## Stakeholders 
+
+* Marketing
+* Qualification
+
+## Scrum : Data 
+
+* Graphique rapport (Charge des stories, stories terminées) 
