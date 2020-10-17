@@ -34,26 +34,30 @@ Liste de processus/méthodes ajouté durant l'année :
 ### Estimation/projection 
 
 * Echelle Scrum 
-* Estimation des stories 
+* Estimation des stories
+
+## Stories / Backlog
+
+* Une tâche => une story
+* Backlog Sprint
+* Backlog Front
+* Backlog Backlog
+* Backlog Scrum
 
 ### Communication
 
 * Les stakeholders se sentent-ils plus écouté ? 
 * Les stakeholders ont-ils une meilleure vision du travail de l'équipe ? 
 
-## Points positif
+## Coût/Bénéfice
 
-* 
-* 
-*
-*
- 
-## Points négatif 
+## Axes d'amélioration
 
-*
-*
-*
-*
+* Backlog Scrum sous exploité
+* Communication avec les autres pôles, mieux transmettre nos points de blocages, point de frustration (CF variables)
+* Moins se charger (traduit augmentation du % de complétion d'un sprint)
+* Etre plus régulier et serieux sur l'estimation et la répartition des stories
+
 
 ## Stakeholders 
 
@@ -63,3 +67,5 @@ Liste de processus/méthodes ajouté durant l'année :
 ## Scrum : Data 
 
 * Graphique rapport (Charge des stories, stories terminées) 
+* Total de (stories terminés, ?)
+* Moyenne (Stories terminées / %Terminé, durée en réunion)
