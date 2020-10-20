@@ -57,6 +57,7 @@ Liste de processus/méthodes ajouté durant l'année :
 * Communication avec les autres pôles, mieux transmettre nos points de blocages, point de frustration (CF variables)
 * Moins se charger (traduit augmentation du % de complétion d'un sprint)
 * Etre plus régulier et serieux sur l'estimation et la répartition des stories
+* Améliorer le trade-off (Temps, efficacité)
 
 
 ## Stakeholders 
@@ -66,6 +67,8 @@ Liste de processus/méthodes ajouté durant l'année :
 
 ## Scrum : Data 
 
-* Graphique rapport (Charge des stories, stories terminées) 
-* Total de (stories terminés, ?)
-* Moyenne (Stories terminées / %Terminé, durée en réunion)
+* Graphique rapport (Charge des stories, stories terminées)  (1)
+* Total de (stories terminés, ?) (3)
+* Moyenne (Stories terminées / %Terminé, durée en réunion) (2)
+
+## Conclusion 
